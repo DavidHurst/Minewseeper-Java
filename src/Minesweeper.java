@@ -41,7 +41,7 @@ import javafx.stage.StageStyle;
  * Minefield.java and GameState.java, styling of components achieved through
  * styleSheet.css.
  *
- * @author 198780
+ * @author DavidHurst
  */
 public class Minesweeper extends Application {
 

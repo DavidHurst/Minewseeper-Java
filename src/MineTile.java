@@ -9,7 +9,7 @@ import java.io.Serializable;
  * a field to indicate if the tile has been revealed and a field to indicate if 
  * the user has marked the tile.
  *
- * @author 198780
+ * @author DavidHurst
  */
 class MineTile implements Serializable {
 

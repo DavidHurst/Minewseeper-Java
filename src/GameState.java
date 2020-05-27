@@ -2,7 +2,7 @@ package minesweeper3;
 
 /**
  * Representative of possible game states.
- * @author 198780
+ * @author DavidHurst
  */
 public enum GameState {
     ONGOING,

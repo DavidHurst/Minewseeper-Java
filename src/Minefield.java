@@ -17,7 +17,7 @@ import java.util.Random;
  * which has not been revealed and "[?]" represents a MineTile which has been
  * marked. Object also serialisable and can be saved and loaded from a file.
  *
- * @author 198780
+ * @author DavidHurst
  */
 public class Minefield implements Serializable {
 
