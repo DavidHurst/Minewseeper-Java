@@ -2,7 +2,7 @@
 
 ***
 
-<img src="https://github.com/DavidHurst/Minewseeper-Java/blob/master/Preview.PNG" alt="Screenshot of game" width="800"/>
+<img src="https://github.com/DavidHurst/Minewseeper-Java/blob/master/Preview.PNG" alt="Screenshot of game" width="600" class="center"/>
 
 ### Features:
 
