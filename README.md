@@ -2,7 +2,7 @@
 
 ***
 
-![Preview of game with a few tiles mined and flagged](https://github.com/DavidHurst/Minewseeper-Java/blob/master/Preview.PNG "Preview of game with a few flags placed")
+<img src="https://github.com/DavidHurst/Minewseeper-Java/blob/master/Preview.PNG" alt="Screenshot of game" width="200"/>
 
 ### Features:
 
